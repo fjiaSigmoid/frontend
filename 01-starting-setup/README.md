@@ -1,2 +1,2 @@
 Component Diagram:
-![Alt text](./React_Expense_Tracker.jpg?raw=false "Optional Title")
+[<img src="./React_Expense_Tracker.jpg" width="100" />]
